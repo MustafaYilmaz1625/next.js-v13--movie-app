@@ -1,1 +1,0 @@
-# next.js-v13--movie-app
